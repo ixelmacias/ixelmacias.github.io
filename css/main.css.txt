@@ -1,4 +1,25 @@
 :root
 {
-    background-color: gray;
+    background-color: rgb(50,50,50);
+    color:white;
+}
+img
+{
+    display: block;
+    margin: auto;
+)
+h1
+{
+    font-size: 45px;
+    color:gold;
+    text-align: center;
+}
+
+h2, h3, h4, h5, h6
+{
+    color:orange;
+}
+a
+{
+    color:white;
 }
